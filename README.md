@@ -15,9 +15,9 @@ Here are my top programming languages I have learnt so far:
 | 3 | C# |
 | 4 | HTML |
 | 5 | PHP |
+</div>
 
 > I have not fully mastered these programming languages however I am activly learning each one.
-</div>
 
 Thank you for reading about me ❤️
 
